@@ -3,3 +3,6 @@ Archive of blog posts, policies, screenshots from the Meta Spark AR website (and
 <h3> It's in your eyes - References <br></h3>
 <a href="Introducing the Spark AR Creator Awards _ Meta Spark 2.pdf" target="\_blank">Meta Spark 2021, 'Introducing the Spark AR creator awards'</a><br>
 <a href="Spark AR policies 2022.pdf" target="\_blank">Spark AR 2022, 'Spark AR policies'</a>
+<br>
+<h3> 10 years of filters - References <br></h3>
+<a href="A Meta Spark Update _ Meta Spark.pdf" target="\_blank">Meta Spark 2024, 'A Meta Spark update'</a><br>
