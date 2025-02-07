@@ -5,4 +5,4 @@ Archive of blog posts, policies, screenshots from the Meta Spark AR website (and
 <a href="Spark AR policies 2022.pdf" target="\_blank">Spark AR 2022</a>, 'Spark AR policies' | <a href=https://spark.meta.com/blog/meta-spark-announcement/>Original link</a><br>
 <br>
 <h3> 10 years of filters - References <br></h3>
-<a href="A Meta Spark Update _ Meta Spark.pdf" target="\_blank">Meta Spark 2024, 'A Meta Spark update'</a> | <a href=https://spark.meta.com/blog/meta-spark-announcement/>Original link</a><br>
+<a href="A Meta Spark Update _ Meta Spark.pdf" target="\_blank">Meta Spark 2024</a>, 'A Meta Spark update'| <a href=https://spark.meta.com/blog/meta-spark-announcement/>Original link</a><br>
