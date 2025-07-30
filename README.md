@@ -2,6 +2,7 @@
 Archive of blog posts, policies, screenshots from the Meta Spark AR website (and affiliated Meta / Spark AR / Instagram effect content) <br>
 <h3>References <br></h3>
 <a href="Discussing the Future of Spark AR _ Spark AR.pdf" target="\_blank">Cook 2021</a>, 'Discussing the future of Spark AR' | <a href=https://sparkar.facebook.com/blog/apac-creator-roundtable>Original link</a><br>
+<a href="Building for the future.pdf" target="\_blank">Meta Tech 2019</a>, 'Building for the future: Spark AR expands to Windows and announces Instagram open beta' | <a href=https://tech.facebook.com/reality-labs/2019/4/spark-ar-expands-to-windows-and-announces-instagram-open-beta>Original link</a><br>
 <a href="Introducing the Spark AR Creator Awards _ Meta Spark 2.pdf" target="\_blank">Meta Spark 2021</a>, 'Introducing the Spark AR creator awards' | <a href=https://sparkar.facebook.com/blog/introducing-spark-arcreator-awards>Original link</a><br>
 <a href="A Meta Spark Update _ Meta Spark.pdf" target="\_blank">Meta Spark 2024</a>, 'A Meta Spark update'| <a href=https://spark.meta.com/blog/meta-spark-announcement/>Original link</a><br>
 <a href="Spark Effect Policy Document.pdf" target="\_blank">Spark AR 2022</a>, 'Spark AR policies' | <a href=https://spark.meta.com/learn/publishing/spark-ar-review-policies#instructions>Original link</a><br>
