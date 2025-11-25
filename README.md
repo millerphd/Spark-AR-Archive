@@ -10,4 +10,4 @@ Archive of blog posts, policies, screenshots from the Meta Spark AR website (and
 <a href="A Meta Spark Update _ Meta Spark.pdf" target="\_blank">Meta Spark 2024</a>, 'A Meta Spark update'| <a href=https://spark.meta.com/blog/meta-spark-announcement/>Original link</a><br>
 <a href="Women Redefining Reality.pdf" target="\_blank">Spark AR 2020</a>, 'Women redefining reality' | <a href=https://sparkar.facebook.com/blog/women-redefining-reality/>Original link</a><br>
 <a href="Spark Effect Policy Document.pdf" target="\_blank">Spark AR 2022</a>, 'Spark AR policies' | <a href=https://spark.meta.com/learn/publishing/spark-ar-review-policies#instructions>Original link</a><br>
-
+<a href="Expanding the Spark AR Ecosystem _ Meta Spark.pdf" target="\_blank">Young 2020</a>, 'Expanding the Spark AR Ecosystem' | <a href=https://sparkar.facebook.com/blog/extending-spark-ar-ecosystem/>Original link</a><br>
